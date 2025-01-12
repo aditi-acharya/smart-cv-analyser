@@ -1,0 +1,43 @@
+.result-page-container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f5c6c6;
+    border: 2px solid #ffc1c1;
+    border-radius: 5px;
+  }
+  
+  .result-page-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .result-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffecec;
+    border: 3px solid #efaeae;
+    border-radius: 5px;
+  }
+  
+  .result-item h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #d96161;
+  }
+  
+  .result-item pre {
+    white-space: pre-wrap; /* Ensures text wraps properly */
+    word-wrap: break-word; /* Prevents long words from breaking layout */
+    background-color: #ffeaea;
+    padding: 15px;
+    border: 3px solid #ffd5d5;
+    border-radius: 3px;
+    overflow: auto; /* Adds scrollbar if content overflows */
+  }
+  

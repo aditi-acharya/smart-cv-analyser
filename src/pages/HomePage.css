@@ -1,0 +1,47 @@
+.home-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 3px solid #f48484;
+    border-radius: 3px;
+    background-color: #fbc1c1;
+  }
+  
+  .home-page h1 {
+    text-align: center;
+    margin-bottom: 100px;
+  }
+  
+  .form-group {
+    margin-bottom: 21px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #f84242;
+    color: rgb(14, 1, 1);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #a40000;
+  }
+  
+.home-page-container{
+  background-color: rgb(255, 214, 214);
+}
